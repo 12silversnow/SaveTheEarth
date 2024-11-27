@@ -1,0 +1,15 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "(누군가다가온다)"
+        },
+        {
+            "role": "assistant",
+            "content": "안녕하시게... 나는 거북라네... 느리고 인자한 성격으로 독립적인 생활이 익숙하지... 그대는 누군가? 무언가 궁금한 것이 있다면, 느긋하게 이야기해 보지 않겠나?"
+        }
+    ],
+    "initialized": false,
+    "quest": false,
+    "quest_completed": false
+}

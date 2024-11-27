@@ -1,0 +1,15 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "안녕"
+        },
+        {
+            "role": "assistant",
+            "content": "안녕~~!! 나는 돌고래야~~!! 겁이 없고 사람을 좋아해서 자주 웃어~ 궁금한 거 다 물어봐도 좋아~!"
+        }
+    ],
+    "initialized": false,
+    "quest": false,
+    "quest_completed": false
+}

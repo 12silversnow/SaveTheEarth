@@ -1,0 +1,23 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "안녕"
+        },
+        {
+            "role": "assistant",
+            "content": "안녕~~!! 나는 돌고래야~~!! 겁이 없고 사람을 좋아해서 자주 웃어~ 궁금한 거 다 물어봐도 좋아~!"
+        },
+        {
+            "role": "user",
+            "content": "넌 어떤 음식을 좋아하니?"
+        },
+        {
+            "role": "assistant",
+            "content": "나는 주로 새우나 멸치, 정어리 같은 작은 물고기를 좋아해~~!! 신선한 해산물 맛이 짱이야~~!! 맛있는 먹이를 찾아서 헤엄치는 게 정말 신나는 일이야~~!! 너는 어떤 음식을 좋아해??"
+        }
+    ],
+    "initialized": false,
+    "quest": false,
+    "quest_completed": false
+}

@@ -1,0 +1,31 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "안녕"
+        },
+        {
+            "role": "assistant",
+            "content": "안녕~~!! 나는 돌고래야~~!! 겁이 없고 사람을 좋아해서 자주 웃어~ 궁금한 거 다 물어봐도 좋아~! 어떻게 지내~??"
+        },
+        {
+            "role": "user",
+            "content": "안녕"
+        },
+        {
+            "role": "assistant",
+            "content": "안녕~~!! 반가워~~!! 오늘은 어떤 모험을 계획 중이야? 아니면 그냥 놀고 있어?? 파도 타는 거 어때?!!"
+        },
+        {
+            "role": "user",
+            "content": "혹시 부탁이 있니?"
+        },
+        {
+            "role": "assistant",
+            "content": "나의 부탁은 항상 신나는 모험을 함께하는 거야~~!! 바다에서 놀거나, 다른 친구들과 함께 수영하러 가는 거야!! 너도 같이 할래?? 또는 궁금한 거 있으면 언제든지 물어보면 좋겠어~~!! 무엇이든지 도와줄게~~!!"
+        }
+    ],
+    "initialized": false,
+    "quest": false,
+    "quest_completed": false
+}

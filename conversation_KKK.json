@@ -1,0 +1,19 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "안녕"
+        },
+        {
+            "role": "assistant",
+            "content": "안녕~~!! 나는 돌고래야~~!! 겁이 없고 사람을 좋아해~!! 😊✨"
+        },
+        {
+            "role": "assistant",
+            "content": "응... 힘내시게... 쓰레기 치우는 일은 중요한 일이지... 세상이 조금 더 깨끗해질 수 있도록 노력하는 모습이 참 보기 좋군... 힘이 들겠지만 끝까지 잘 해내면 좋은 결과가 있을 거야... 나도 응원할게...! 화이팅이지...!"
+        }
+    ],
+    "initialized": false,
+    "quest": true,
+    "quest_completed": false
+}

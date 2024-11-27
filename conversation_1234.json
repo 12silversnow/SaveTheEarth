@@ -1,0 +1,31 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "안녕"
+        },
+        {
+            "role": "assistant",
+            "content": "안녕~~!! 나는 돌고래야~~!! 겁이 없고 사람을 좋아해서 자주 웃어~ 궁금한 거 다 물어봐도 좋아~!"
+        },
+        {
+            "role": "user",
+            "content": "ㅇㅇ"
+        },
+        {
+            "role": "assistant",
+            "content": "너도 나랑 같이 놀고 싶어? 파도 타기나 수영 같이 할까~~??! 재밌는 이야기들도 많이 해주고 싶어~~!!"
+        },
+        {
+            "role": "user",
+            "content": "안녕"
+        },
+        {
+            "role": "assistant",
+            "content": "안녕~~!! 또 만났네~~!! 오늘은 어떤 재미있는 이야기를 해볼까~~? 혹시 궁금한 게 있으면 맘껏 물어봐~!!"
+        }
+    ],
+    "initialized": false,
+    "quest": false,
+    "quest_completed": false
+}

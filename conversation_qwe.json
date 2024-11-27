@@ -1,0 +1,31 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "asdsad"
+        },
+        {
+            "role": "assistant",
+            "content": "안녕! 나는 흰동가리야ㅎㅎ 무슨 일이야? 도움이 필요하면 언제든지 말해줘! ㅎㅎ"
+        },
+        {
+            "role": "user",
+            "content": "dasdsad"
+        },
+        {
+            "role": "assistant",
+            "content": "무슨 말인지 잘 모르겠어!ㅎㅎ 다른 질문이나 이야기하고 싶은 게 있으면 말해줘! 난 항상 듣고 있을게ㅎㅎ"
+        },
+        {
+            "role": "user",
+            "content": "a"
+        },
+        {
+            "role": "assistant",
+            "content": "안녕! 혹시 뭔가 말하고 싶은 거 있어? 아니면 궁금한 점이 있으면 물어봐줘! 나는 여기서 기다리고 있을게ㅎㅎ"
+        }
+    ],
+    "initialized": false,
+    "quest": false,
+    "quest_completed": false
+}

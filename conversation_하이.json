@@ -1,0 +1,15 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "항이 "
+        },
+        {
+            "role": "assistant",
+            "content": "안녕! 나는 흰동가리야ㅎㅎ 너는 뭐 하고 있어? 안전한 곳을 찾아야 하는데, 혹시 주변에 위험한 것이 있을까?ㅎㅎ"
+        }
+    ],
+    "initialized": false,
+    "quest": false,
+    "quest_completed": false
+}
