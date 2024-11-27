@@ -67,7 +67,8 @@
 - 해양 동물과 상호작용하며 그들의 어려움을 이해하고 공감을 얻게 됩니다.
 
 ## 사용 기술
-YOLOv8
-FastAPI
-GPT-4o mini
+- YOLOv8
+- FastAPI
+- GPT-4o mini
+- Python
 
