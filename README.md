@@ -1,4 +1,4 @@
-# Save the Ocean - 교육적 메타버스 경험
+# Save the Earth - 교육적 메타버스 경험
 
 ## 개요
 
